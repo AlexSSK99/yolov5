@@ -474,5 +474,6 @@ For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github
   <a href="https://www.instagram.com/ultralytics/" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/master/social/logo-social-instagram.png" width="3%" alt="" /></a>
 </div>
+  
 
 [tta]: https://github.com/ultralytics/yolov5/issues/303
